@@ -1,0 +1,153 @@
+
+ ===> Arrivée processus
+ Type :  P   PID :    0  Debut :   -1  Deplacement :  10 
+
+ Un trou trouvé :
+ Type :  T   PID :   -1  Debut :    0  Deplacement : 100 
+
+ ****** Impression de la lise  ********* 
+ 
+ Type :  P   PID :    0  Debut :    0  Deplacement :  10 
+
+ Type :  T   PID :   -1  Debut :   10  Deplacement :  90 
+
+ ****** Fin impression ******* 
+ 
+ <=== depart processus
+ nbrprocess=1
+ num_p=1
+ Type :  P   PID :    0  Debut :    0  Deplacement :  10 
+
+ ****** Impression de la lise  ********* 
+ 
+ Type :  T   PID :   -1  Debut :    0  Deplacement : 100 
+
+ ****** Fin impression ******* 
+ 
+ ===> Arrivée processus
+ Type :  P   PID :    2  Debut :   -1  Deplacement :  26 
+
+ Un trou trouvé :
+ Type :  T   PID :   -1  Debut :    0  Deplacement : 100 
+
+ ****** Impression de la lise  ********* 
+ 
+ Type :  P   PID :    2  Debut :    0  Deplacement :  26 
+
+ Type :  T   PID :   -1  Debut :   26  Deplacement :  74 
+
+ ****** Fin impression ******* 
+ 
+ <=== depart processus
+ nbrprocess=1
+ num_p=1
+ Type :  P   PID :    2  Debut :    0  Deplacement :  26 
+
+ ****** Impression de la lise  ********* 
+ 
+ Type :  T   PID :   -1  Debut :    0  Deplacement : 100 
+
+ ****** Fin impression ******* 
+ 
+ ===> Arrivée processus
+ Type :  P   PID :    4  Debut :   -1  Deplacement :  15 
+
+ Un trou trouvé :
+ Type :  T   PID :   -1  Debut :    0  Deplacement : 100 
+
+ ****** Impression de la lise  ********* 
+ 
+ Type :  P   PID :    4  Debut :    0  Deplacement :  15 
+
+ Type :  T   PID :   -1  Debut :   15  Deplacement :  85 
+
+ ****** Fin impression ******* 
+ 
+ ===> Arrivée processus
+ Type :  P   PID :    5  Debut :   -1  Deplacement :  28 
+
+ Un trou trouvé :
+ Type :  T   PID :   -1  Debut :   15  Deplacement :  85 
+
+ ****** Impression de la lise  ********* 
+ 
+ Type :  P   PID :    5  Debut :   15  Deplacement :  28 
+
+ Type :  P   PID :    4  Debut :    0  Deplacement :  15 
+
+ Type :  T   PID :   -1  Debut :   43  Deplacement :  57 
+
+ ****** Fin impression ******* 
+ 
+ ===> Arrivée processus
+ Type :  P   PID :    6  Debut :   -1  Deplacement :  38 
+
+ Un trou trouvé :
+ Type :  T   PID :   -1  Debut :   43  Deplacement :  57 
+
+ ****** Impression de la lise  ********* 
+ 
+ Type :  P   PID :    5  Debut :   15  Deplacement :  28 
+
+ Type :  P   PID :    4  Debut :    0  Deplacement :  15 
+
+ Type :  P   PID :    6  Debut :   43  Deplacement :  38 
+
+ Type :  T   PID :   -1  Debut :   81  Deplacement :  19 
+
+ ****** Fin impression ******* 
+ 
+ ===> Arrivée processus
+ Type :  P   PID :    7  Debut :   -1  Deplacement :  14 
+
+ Un trou trouvé :
+ Type :  T   PID :   -1  Debut :   81  Deplacement :  19 
+
+ ****** Impression de la lise  ********* 
+ 
+ Type :  P   PID :    5  Debut :   15  Deplacement :  28 
+
+ Type :  P   PID :    4  Debut :    0  Deplacement :  15 
+
+ Type :  P   PID :    6  Debut :   43  Deplacement :  38 
+
+ Type :  P   PID :    7  Debut :   81  Deplacement :  14 
+
+ Type :  T   PID :   -1  Debut :   95  Deplacement :   5 
+
+ ****** Fin impression ******* 
+ 
+ ===> Arrivée processus
+ Type :  P   PID :    8  Debut :   -1  Deplacement :  37 
+
+ ****** Impression de la lise  ********* 
+ 
+ Type :  P   PID :    5  Debut :   15  Deplacement :  28 
+
+ Type :  P   PID :    4  Debut :    0  Deplacement :  15 
+
+ Type :  P   PID :    6  Debut :   43  Deplacement :  38 
+
+ Type :  P   PID :    7  Debut :   81  Deplacement :  14 
+
+ Type :  T   PID :   -1  Debut :   95  Deplacement :   5 
+
+ ****** Fin impression ******* 
+ 
+ ===> Arrivée processus
+ Type :  P   PID :    9  Debut :   -1  Deplacement :  24 
+
+ ****** Impression de la lise  ********* 
+ 
+ Type :  P   PID :    5  Debut :   15  Deplacement :  28 
+
+ Type :  P   PID :    4  Debut :    0  Deplacement :  15 
+
+ Type :  P   PID :    6  Debut :   43  Deplacement :  38 
+
+ Type :  P   PID :    7  Debut :   81  Deplacement :  14 
+
+ Type :  T   PID :   -1  Debut :   95  Deplacement :   5 
+
+ ****** Fin impression ******* 
+ 
